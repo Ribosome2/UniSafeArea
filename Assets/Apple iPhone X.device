@@ -3,8 +3,8 @@
     "version": 1,
     "screens": [
         {
-            "width": 600,
-            "height": 1600,
+            "width": 1200,
+            "height": 3200,
             "navigationBarHeight": 0,
             "dpi": 458.0,
             "orientations": [
@@ -15,7 +15,7 @@
                         "x": 0.0,
                         "y": 102.0,
                         "width": 1200,
-                        "height": 1500
+                        "height": 3200
                     },
                     "cutouts": [
                         {
